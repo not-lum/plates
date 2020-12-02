@@ -1,10 +1,6 @@
-<center>
-    <h1><b>Plates</b></h1>
-</center><br>
-
-<center>
-    <img src="screenshot.png"></img>
-</center><br>
+<h1><b>Plates</b></h1><br>
+<img src="screenshot.png"></img>
+<br>
 <hr>
 
 
